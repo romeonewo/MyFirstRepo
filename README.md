@@ -1,1 +1,3 @@
-##My readme file
+"first repository"
+
+"GitHub learning task"
